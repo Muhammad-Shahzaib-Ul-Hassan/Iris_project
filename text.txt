@@ -1,0 +1,18 @@
+No # 1 import libraries 
+      ● Pandas
+      ● Numpy
+      ● Matplotlib
+      ● Seaborn
+No # 2 load iris dataset using pandas
+No # 3 print shape, column names, and first few rows using .head()
+No # 4 Use .info() and .describe() for statistics summary.
+No # 5 Visualize the dataset:
+            ○ Create a scatter plot to show relationships between features.
+            ○ Use histograms to show value distributions.
+            ○ Use box plots to identify outliers.
+NO # 6 Use matplotlib and seaborn for plotting.
+
+Skills:
+    ● Data loading and inspection using pandas
+    ● Descriptive statistics and data exploration
+    ● Basic plotting and visualization with seaborn and matplotlib
