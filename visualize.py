@@ -57,17 +57,3 @@ def correlation_heatmap(df):
 
 
 
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-
-# def scatter_plot(df):
-#     sns.scatterplot(data=df, x='sepal_length', y='sepal_width', hue='species')
-#     plt.show()
-
-# def histograms(df):
-#     df.hist(figsize=(10,8))
-#     plt.show()
-
-# def boxplot(df):
-#     sns.boxplot(data=df)
-#     plt.show()
