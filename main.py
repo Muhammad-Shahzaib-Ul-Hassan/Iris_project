@@ -54,20 +54,3 @@ if __name__ == "__main__":
     main()
 
 
-# from load_data import load_iris_data
-# from visualize import scatter_plot, histograms, boxplot
-
-# def main():
-#     df = load_iris_data()
-
-
-#     print(df.head())
-#     print(df.info())
-#     print(df.describe())
-
-#     scatter_plot(df)
-#     histograms(df)
-#     boxplot(df)
-
-# if __name__ == "__main__":
-#     main()
